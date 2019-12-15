@@ -47,6 +47,8 @@ img:hover {
 }
 
 .col {
+  width: 30%;
+  display: inline-block
 }
 
 .small{
